@@ -164,11 +164,3 @@ This project may be reused or modified strictly for non-commercial learning purp
 
 Godspower Johnson
 Flutter UI Developer
-
-
----
-
-optimize it to pass school plagiarism checks
-
-
-Just say the word 😌
