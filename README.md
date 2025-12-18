@@ -21,7 +21,11 @@ It exists solely for educational use and personal portfolio presentation.
 
 A sample dashboard layout featuring balance display, shortcut actions, service tiles, and navigation controls.
 
-layout:
+layout: <Img src="lib/image2.png">
+<br>
+<br>
+<br>
+<Img src="lib/image.png">
 
 
 ---
